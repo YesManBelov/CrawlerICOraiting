@@ -456,3 +456,273 @@
 [ERROR]: 2018/06/01 22:21:26 logger.go:53: <nil>
 [ERROR]: 2018/06/01 22:21:26 logger.go:53: <nil>
 [ERROR]: 2018/06/01 22:21:26 logger.go:53: <nil>
+[ERROR]: 2018/06/02 02:56:16 logger.go:53: CreateFile data1/icorating/0x project (ZRX)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:16 logger.go:53: CreateFile data1/icorating/0chain (ZCHN)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:16 logger.go:53: CreateFile data1/icorating/A2B Direct (A2B)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:16 logger.go:53: CreateFile data1/icorating/Abelon (ABD)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/4THPillar (FOUR)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/3va (MED)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/4NEW Limited (KWATT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/A-Token (ATKN)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/3D-Token (3DT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/Abele (ABT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/A2B Taxi Token (TAXI)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/AAA coin (AAA)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/3D-Chain (3xD)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/8 Circuit Studios (8BT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/3C (3CC)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/1World (1WO)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/1APayment (1AP)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/777.BINGO (777)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/2100NEWS (NWS)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/3DES (DES)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/1WorldBlockchain (WBD)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:17 logger.go:53: CreateFile data1/icorating/300cubits (TEU)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/Ab-chain (ABC)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/100Tokens (OHC)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/AbjCoin (ABJ)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/Aamicoin (AAMI)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/ABLE (ABLE)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/United Traders (UTT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/The Abyss (ABYSS)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/HelloGold (HGT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/PROSENSE.TV (VRP)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/INS Ecosystem (INS)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/NAGA Coin (NGC)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/Cappasity (CAPP)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/Remme (REM)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/Forty Seven (FSBT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/AidCoin (AID)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:18 logger.go:53: CreateFile data1/icorating/DomRaider (DRT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/Neuromation (NTK)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/TokenStars (ACE)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/HOQU (HQX)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/ACA Network (ACA)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/ACADEMY (ACAD)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/Bitclave (CAT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/ICOS (ICOS)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/BLOCKv (VEE)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/Blackmoon (BMC)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/AppCoins (APPC)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/Finom (FINOM)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/ABR (AUG)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/WePower (WPR)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/Healthureum (HHEM)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/VRT World (VRT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/Polkadot (DOT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:19 logger.go:53: CreateFile data1/icorating/Filecoin (FIL)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/SIRIN LABS (SRN)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/Comsa (CMS)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/Tezos (XTZ)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/Dragon Coin (DRG)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/Status (SNT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/LIQUID (QASH)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/Bankera (BNK)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/BitRewards (BIT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/The Bancor Protocol (BNT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/Kin (KIN)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/Legolas (LGO)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/TokenStars TEAM (TEAM)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/Huobi (HT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/Bubbletone (UMT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/Play2Live (LUC)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/Crowd Machine (CMCT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/OKOIN (OKOIN)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:20 logger.go:53: CreateFile data1/icorating/StopTheFakes (STF)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/TenX (PAY)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/Envion (EVN)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/DateCoin (DTC)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/CoinMe (UP)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/Landcoin (LDC)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/Savedroid (SVD)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/Leadcoin (LDC)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/Blockstack (STX)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/Swissborg (CHSB)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/Nebulas (NAS)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/Celsius (CEL)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/Odyssey (OCN)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/Elastos (ELA)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/Zeepin (ZPT)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/MobileGo (GAME)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/TRON (TRX)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 02:56:21 logger.go:53: CreateFile data1/icorating/Nexo (NEXO)
+.json: The filename, directory name, or volume label syntax is incorrect.
+[ERROR]: 2018/06/02 03:12:35 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:35 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:36 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:36 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:36 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:36 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:36 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:36 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:36 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:36 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:36 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:36 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:36 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:36 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:36 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:37 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:38 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:39 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:40 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:41 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:41 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:41 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:41 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:41 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:41 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:41 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:41 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:41 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:41 logger.go:53: <nil>
+[ERROR]: 2018/06/02 03:12:41 logger.go:53: <nil>

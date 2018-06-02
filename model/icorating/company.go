@@ -12,7 +12,7 @@ type ICORatingCompany struct {
 	Website          string
 	Whitepaper       string
 	InvestmentRating string
-	HypeScore        float32
-	RiskScore        float32
-	SocialMedia      map[string]string
+	Rating 			 string
+	HypeScore        string
+	RiskScore        string
 }

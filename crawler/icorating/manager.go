@@ -4,7 +4,7 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/visheratin/ico-crawler/misc"
+	"github.com/YesManBelov/ico-crawler/misc"
 )
 
 var mainLink = "https://icorating.com/ico/?filter=all"

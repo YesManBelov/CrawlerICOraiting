@@ -4,8 +4,8 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
-	model "github.com/visheratin/ico-crawler/model/icorating"
-	"github.com/visheratin/ico-crawler/writer"
+	model "github.com/YesManBelov/ico-crawler/model/icorating"
+	"github.com/YesManBelov/ico-crawler/writer"
 )
 
 type ICORatingWorker struct {
@@ -18,7 +18,7 @@ type ICORatingWorker struct {
 func (worker *ICORatingWorker) Start() error {
 	for _, link := range worker.links {
 		entity, _ := worker.GetDetails(link)
-		outputPath := "./data3/icorating/"
+		outputPath := "./data1/icorating/"
 		outFilename := entity.Title + ".json"
 		writer.WriteToFS(outputPath, outFilename, entity)
 	}
@@ -64,19 +64,29 @@ func (worker *ICORatingWorker) GetDetails(detailsLink string) (model.ICORatingCo
 			result.Website = clearText(cell.Siblings().Text())
 		}
 	}
+	titleNode2 := doc.Find("h2")
+	if len(titleNode.Nodes) > 0 {
+		result.Rating = titleNode2.Text()
+	}
 	spanCells := doc.Find("span")
 	for i := range spanCells.Nodes {
 		cell := spanCells.Eq(i)
 		text := cell.Text()
-		if text == "Investment rating:" {
+		if text == "Investment rating" {
 			result.InvestmentRating = clearText(cell.Siblings().Text())
+		}
+		if text == "Hype score" {
+			result.HypeScore = clearText(cell.Siblings().Text())
+		}
+		if text == "Risk score" {
+			result.RiskScore = clearText(cell.Siblings().Text())
 		}
 	}
 	return result, nil
 }
 
 func clearText(input string) string {
-	output := strings.Replace(input, "\n", "", -1)
+	output := strings.Replace(input, "\n", "", -1) 
 	output = strings.TrimSpace(output)
 	return output
 }
